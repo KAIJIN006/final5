@@ -22,3 +22,4 @@ Deployment:
 Email sending still requires a valid RESEND_API_KEY and an authorized sender domain for sending to arbitrary customer email addresses. Dashboard confirmation works independently of email delivery.
 
 School-project prototype note: review authentication, password storage, CSRF protection, and database persistence before any real-world production use.
+this is for school project purpose only.
